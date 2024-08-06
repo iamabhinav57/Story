@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is chapter 2 new change
+=======
+This is chapter 2 
+1
+>>>>>>> copyBranch
